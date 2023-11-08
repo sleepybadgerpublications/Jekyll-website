@@ -19,12 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 theme: minima
+domain: www.sleepybadger.com
 title: Sleepy Badger Productions
 email: dan@sleepybadger.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sleepy Badger Productions specializes in publishing works and producing events for our supported authors and artists.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.sleepybadger.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.sleepybadger.com"
 twitter_username: 
 github_username:  
 
