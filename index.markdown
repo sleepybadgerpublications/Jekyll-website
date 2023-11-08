@@ -5,6 +5,4 @@
 layout: home
 ---
 
-# Sleepy Badger Productions
-
 Welcome! Stay tuned for updates on upcoming events and publications.
